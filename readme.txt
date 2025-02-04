@@ -10,6 +10,9 @@ Este é um projeto com estrutura simples feito em Java que utiliza Spring Boot, 
 - Spring Boot 3.4.2
 - JUnit 5
 
+## Container Docker
+https://hub.docker.com/r/victorlaveso/transacao-api
+
 ## Estrutura do Projeto onde houve modificações
 ```
 transacao-api/
@@ -35,8 +38,8 @@ transacao-api/
 |   |   |   |   |   |   |   |-- exceptions/
 |   |   |   |   |   |   |   |   |-- UnprocessableEntity.java
 
-## Autor
-- Nome: angelicaweiler
+## Desafio
+https://github.com/rafaellins-itau/desafio-itau-vaga-99-junior
 
 ## Modificado por
 - Nome: VictorLaveso
