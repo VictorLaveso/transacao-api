@@ -2,7 +2,8 @@
 Desafio técnico para desenvolvedor Júnior do Itaú (treino)
 
 ## Descrição
-Este é um projeto com estrutura simples feito em Java que utiliza Spring Boot, incluindo organização de pacotes e uso de classes.
+Este é um projeto com estrutura simples feito em Java que utiliza Spring Boot, incluindo organização de pacotes, uso de classes e o uso de container Docker. 
+O objetivo final desse projeto é aperfeiçoar as habilidades adquiridas.
 
 ## Tecnologias Utilizadas
 - Java 17
